@@ -1,13 +1,66 @@
-# awesome
-mac apps :333
+# awesome mac apps :333333
 
-## GOATS
-- [Yabai](https://github.com/koekeishiya/yabai) - automated window management 😍 (config was so hard to learn tho)
-- [Swift Shift](https://github.com/pablopunk/SwiftShift) - for adjusting. good on its own too
-- [Hoverboard](https://github.com/elslooo/hoverboard ) - the goat from 2017
+## Windowowow
+- **[Yabai](https://github.com/koekeishiya/yabai)** – Advanced window manager for macOS. It's like a superpower for your desktop.
+- **[Yabai Control](https://github.com/LoopyLucy/Yabai-Control-Bar)** – Because even your window manager needs a nice interface.
+- **[Swift Shift](https://github.com/pablopunk/SwiftShift)** – Tool to adjust your windows. Neat freaks, assemble!
+- **[hoverboard](https://github.com/elslooo/hoverboard)** – Classic window manager. Feels vintage. Still works though.
+- **[JankyBorders](https://github.com/FelixKratz/JankyBorders)** – Customizable window borders. For the non-perfectionist.
 
-## productivity
-- [Corner](https://github.com/mori-ahk/Corner) - makes diagrams. like super easy awesome diagrams
--  [Cleeb](https://github.com/eliseomartelli/Cleeb) - keyboard cleaner
--  [PresenterMode](https://github.com/benjones/presenterMode) - easy sharing of apps or whatever
--  [VoiceInk](https://github.com/Beingpax/VoiceInk/tree/v0.17) - ez transcriber 👍
+## Love
+- **[Masaka](https://github.com/xiaohk/Masaka)** – Hide your desktop icons, because, why not?
+- **[IsThereNet](https://lowtechguys.com/istherenet/)** – Minimalist Wi-Fi checker. “Is there Wi-Fi?” Yes. Is it good? Who knows.
+- **[Rocket](https://matthewpalmer.net/rocket/)** – Emoji picker. Because who can live without 17 different variations of a smiley face?
+- **[Ice](https://icemenubar.app/)** – Menu bar app that makes your Mac look cooler. Get it?
+- **[HideMyDock](https://github.com/a1usha/HideMyDock)** – The dock is shy. Hide it.
+- **[NowPlayr](https://github.com/CozyBrian/NowPlayr)** – Keeps track of your music. Now play me the *good* stuff.
+- **[RunCat](https://kyome.io/runcat/)** – Cute little cat running across your screen, while showing system stats. Purr-fect.
+- **[Displaperture](https://manytricks.com/displaperture/)** – Rounded display corners. Because square corners are soooo last year.
+- **[FinderFix](https://github.com/synappser/FinderFix)** – Finally centers Finder. It's the little things.
+- **[iina](https://iina.io/)** – mpv with a GUI. It’s like mpv, but with love.
+- **[PicArrange](https://visual-computing.com/projects/picarrange)** – Organize photos without wanting to scream.
+- **[Noize](https://mynoize.app/)** – Ambient noise app. Because silence is terrifying.
+- **[Spaced](https://sindresorhus.com/spaced)** – Menubar spacing app. Like personal space for your apps.
+- **[1.1.1.1](https://1.1.1.1/)** – It’s obvious. Fast, secure DNS. Period.
+- **[f.lux](https://justgetflux.com/)** – Screen brightness that doesn't try to fry your eyes at night.
+- **[Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12)** – Keeps your Mac awake. Because you can’t stop, won’t stop.
+- **[Mechvibes](https://mechvibes.com/)** – Keyboard sounds that make you feel like a pro, even if you’re just typing out emails.
+- **[image2icon](https://img2icnsapp.com/)** – Turn your images into icons. Because your dock deserves better.
+- **[Viz](https://github.com/alienator88/Viz)** – Text extractor. When you *really* need that text, but it’s in an image.
+
+---
+
+## Productivity
+- **[Corner](https://github.com/mori-ahk/Corner)** – Quick diagram creation. You’ll be an artist in no time.
+- **[Cleeb](https://github.com/eliseomartelli/Cleeb)** – Keyboard cleaning tool. Your keys are gross. Clean them.
+- **[PresenterMode](https://github.com/benjones/presenterMode)** – Easy content sharing for when your boss needs to see something *right now*.
+- **[VoiceInk](https://github.com/Beingpax/VoiceInk/tree/v0.17)** – Transcription tool. Convert your rambling into actual words.
+- **[Plain Text Editor](https://sindresorhus.com/plain-text-editor)** – Quick, simple text editor. For the times you don't need a whole word processor.
+
+---
+
+## Writing
+- **[FocusWriter](https://focuswriter.en.softonic.com/mac)** – Distraction-free writing. No notifications, no distractions. Just words.
+- **[Streamline](https://getstreamline.app/)** – Uninterrupted stream-of-consciousness writing. Your ideas will never be the same.
+- **[Octarine](https://octarine.app/)** – Minimalist Obsidian alternative. Organize your thoughts, but keep it chill.
+
+---
+
+## Social
+- **[Equibop](https://github.com/Equicord/Equibop)** – Discord, but better. Fewer servers, more vibes.
+- **[menubarx](https://menubarx.app/)** – Floating window that’s oddly satisfying. Like the ‘90s, but useful.
+- **[discord lite](https://github.com/dosdude1/discord-lite)** – Discord, but with less... *everything*. Just the essentials.
+- **[ripcord](https://cancel.fm/ripcord/)** – Because sometimes Slack and Discord are too much. This is a sweet middle ground.
+- **[dorion](https://github.com/SpikeHD/Dorion)** – *Dodo* of the chat world. Minimalism at its finest.
+
+---
+
+## Fun :3
+- **[tbh](https://github.com/artifishvr/tbhdesktop)** – The YIPPEE creature. Who needs productivity when you have this?
+- **[ball](https://github.com/nate-parrott/ball)** – Yes. A ball. On your desktop. No further explanation needed.
+
+---
+
+## Programming
+- **[Klin](https://github.com/freethinkel/klin-terminal)** – Silly terminal app. Because why should terminals be boring?
+- **[iTerm2](https://iterm2.com/)** – I mean, it’s iTerm2. It’s what all the cool devs use. But you knew that already.
