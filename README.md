@@ -10,3 +10,4 @@ mac apps :333
 - [Corner](https://github.com/mori-ahk/Corner) - makes diagrams. like super easy awesome diagrams
 -  [Cleeb](https://github.com/eliseomartelli/Cleeb) - keyboard cleaner
 -  [PresenterMode](https://github.com/benjones/presenterMode) - easy sharing of apps or whatever
+-  [VoiceInk](https://github.com/Beingpax/VoiceInk/tree/v0.17) - ez transcriber 👍
