@@ -8,21 +8,21 @@
 - **[JankyBorders](https://github.com/FelixKratz/JankyBorders)** – Customizable window borders. For the non-perfectionist.
 
 ## Love
-- **[Masaka](https://github.com/xiaohk/Masaka)** – Hide your desktop icons, because, why not?
+- **[Masaka](https://github.com/xiaohk/Masaka)** – For hiding things. It's what you're good at.
 - **[IsThereNet](https://lowtechguys.com/istherenet/)** – Minimalist Wi-Fi checker. “Is there Wi-Fi?” Yes. Is it good? Who knows.
 - **[Rocket](https://matthewpalmer.net/rocket/)** – Emoji picker. Because who can live without 17 different variations of a smiley face?
 - **[Ice](https://icemenubar.app/)** – Menu bar app that makes your Mac look cooler. Get it?
 - **[HideMyDock](https://github.com/a1usha/HideMyDock)** – The dock is shy. Hide it.
 - **[NowPlayr](https://github.com/CozyBrian/NowPlayr)** – Keeps track of your music. Now play me the *good* stuff.
-- **[RunCat](https://kyome.io/runcat/)** – Cute little cat running across your screen, while showing system stats. Purr-fect.
+- **[RunCat](https://kyome.io/runcat/)** – System stats shown however cute you want. 
 - **[Displaperture](https://manytricks.com/displaperture/)** – Rounded display corners. Because square corners are soooo last year.
 - **[FinderFix](https://github.com/synappser/FinderFix)** – Finally centers Finder. It's the little things.
-- **[iina](https://iina.io/)** – mpv with a GUI. It’s like mpv, but with love.
+- **[iina](https://iina.io/)** – mpv with a GUI. I love mpv.
 - **[PicArrange](https://visual-computing.com/projects/picarrange)** – Organize photos without wanting to scream.
 - **[Noize](https://mynoize.app/)** – Ambient noise app. Because silence is terrifying.
 - **[Spaced](https://sindresorhus.com/spaced)** – Menubar spacing app. Like personal space for your apps.
 - **[1.1.1.1](https://1.1.1.1/)** – It’s obvious. Fast, secure DNS. Period.
-- **[f.lux](https://justgetflux.com/)** – Screen brightness that doesn't try to fry your eyes at night.
+- **[f.lux](https://justgetflux.com/)** – Yeah, see, it's the better night shift.
 - **[Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12)** – Keeps your Mac awake. Because you can’t stop, won’t stop.
 - **[Mechvibes](https://mechvibes.com/)** – Keyboard sounds that make you feel like a pro, even if you’re just typing out emails.
 - **[image2icon](https://img2icnsapp.com/)** – Turn your images into icons. Because your dock deserves better.
@@ -31,7 +31,7 @@
 ---
 
 ## Productivity
-- **[Corner](https://github.com/mori-ahk/Corner)** – Quick diagram creation. You’ll be an artist in no time.
+- **[Corner](https://github.com/mori-ahk/Corner)** – Quick diagram creation. Explaining things is easy.
 - **[Cleeb](https://github.com/eliseomartelli/Cleeb)** – Keyboard cleaning tool. Your keys are gross. Clean them.
 - **[PresenterMode](https://github.com/benjones/presenterMode)** – Easy content sharing for when your boss needs to see something *right now*.
 - **[VoiceInk](https://github.com/Beingpax/VoiceInk/tree/v0.17)** – Transcription tool. Convert your rambling into actual words.
@@ -49,15 +49,15 @@
 ## Social
 - **[Equibop](https://github.com/Equicord/Equibop)** – Discord, but better. Fewer servers, more vibes.
 - **[menubarx](https://menubarx.app/)** – Floating window that’s oddly satisfying. Like the ‘90s, but useful.
-- **[discord lite](https://github.com/dosdude1/discord-lite)** – Discord, but with less... *everything*. Just the essentials.
-- **[ripcord](https://cancel.fm/ripcord/)** – Because sometimes Slack and Discord are too much. This is a sweet middle ground.
-- **[dorion](https://github.com/SpikeHD/Dorion)** – *Dodo* of the chat world. Minimalism at its finest.
+- **[discord lite](https://github.com/dosdude1/discord-lite)** – Discord, but so old. So, so old.
+- **[ripcord](https://cancel.fm/ripcord/)** – Discord for LARPers.
+- **[dorion](https://github.com/SpikeHD/Dorion)** – my eternal nitpick about this is the titlebar
 
 ---
 
 ## Fun :3
 - **[tbh](https://github.com/artifishvr/tbhdesktop)** – The YIPPEE creature. Who needs productivity when you have this?
-- **[ball](https://github.com/nate-parrott/ball)** – Yes. A ball. On your desktop. No further explanation needed.
+- **[ball](https://github.com/nate-parrott/ball)** – Yes. A ball. On your desktop. It was on Hacker News.
 
 ---
 
